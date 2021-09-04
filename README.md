@@ -20,7 +20,4 @@ The website used for Desktop APP is [Zillow](https://www.zillow.com/) which basi
 
 
 
--
-
-
 
