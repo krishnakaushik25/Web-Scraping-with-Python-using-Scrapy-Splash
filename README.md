@@ -1,2 +1,7 @@
 # Web-Scraping-with-Python-using-Scrapy-Splash
-Two Web Scraping Projects with detailed analysis of a website before scraping it and used ScrapyRT (Scrapy RealTime) to build spiders that can fetch data in real-time.
+
+- Steam TOP 100 games scraped from Steam store using Scrapy & ScrapyRT.[Link to Github](https://github.com/krishnakaushik25/Game-scraping-from-Steam-store)
+- Built a Desktop app using Tkinter - you can also choose the feed type, feed location & name[Link to Github](https://github.com/krishnakaushik25/Web-Scraping-using-Scrapy-Tkinter-Desktop-App)
+
+[Scrapyrt (Scrapy realtime)](https://github.com/scrapinghub/scrapyrt)
+
