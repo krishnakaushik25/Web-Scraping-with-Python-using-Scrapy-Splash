@@ -5,7 +5,7 @@
 
 The Flask Template that i used for Game Steam Store project is [Jinja template Designer](https://jinja.palletsprojects.com/en/2.10.x/templates/)
 
-The reference doc i used for Downloading and processing files and images in Scrapy which i used in both the projects - [https://docs.scrapy.org/en/latest/topics/media-pipeline.html](https://docs.scrapy.org/en/latest/topics/media-pipeline.html)
+The reference doc i used for Downloading and processing files and images in Scrapy which i used in both the projects - [Media Pipeline(https://docs.scrapy.org/en/latest/topics/media-pipeline.html](https://docs.scrapy.org/en/latest/topics/media-pipeline.html)
 
 The website used for game scraping is [Steam Store](https://store.steampowered.com/search/?filter=topsellers)
 
